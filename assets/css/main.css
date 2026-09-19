@@ -8,9 +8,8 @@
 
 .list ul a{
     color: #3A3845;
+    text-transform: capitalize;
 }
-
-
 
 .icons ul{
     gap: 24px;
@@ -19,3 +18,21 @@
 .logo{
     margin: 21.84px 0px;
 }
+
+.collections .row {
+    gap: 30px;
+    text-align: center;
+}
+
+.collection{
+    width: calc((100% - 90px) / 4);
+    margin: 80px 0px;
+}
+
+.collection h2{
+    margin-top: 23px;
+    text-transform: uppercase;
+    color: #3A3845;
+}
+
+
