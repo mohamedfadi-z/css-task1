@@ -1,0 +1,21 @@
+.header>.container>.row{
+    justify-content: space-between;
+}
+
+.list ul{
+    gap: 60px;
+}
+
+.list ul a{
+    color: #3A3845;
+}
+
+
+
+.icons ul{
+    gap: 24px;
+}
+
+.logo{
+    margin: 21.84px 0px;
+}
