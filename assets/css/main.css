@@ -35,4 +35,40 @@
     color: #3A3845;
 }
 
+.bestsellers h1{
+    color: #3A3845;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 48px;
+    margin-right:  524.5px;
+    margin-left:  524.5px;
+    text-transform: uppercase;
+}
+.bestsellers .row{
+    gap: 40px 30px;
+}
+
+.product{
+    width: (calc(100% - 90px) / 4);
+}
+.product a{
+    margin-top: 24px;
+    color: #3A3845;
+}
+.product h3{
+    
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #3A3845;
+}
+.product button{
+    width: 100%;
+    text-transform: uppercase;
+    margin-top: 38px;
+    padding: 15px 0px;
+}
+.product p{
+    margin-top: 12px;
+    color: #3A3845;
+}
 
